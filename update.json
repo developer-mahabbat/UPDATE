@@ -1,12 +1,12 @@
 {
-  "version": "2.5.0",
+  "version": "2.4.2",
   "publishedAt": "2026-07-22T00:00:00Z",
-  "changelog": "What's new:\\n- Bug fixes\\n- Performance improvements",
+  "changelog": "What's new:- Bug fixes - Performance improvements",
   "force": false,
   "downloads": [
     {
-      "name": "GrexAi-v2.5.0.apk",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.5.0/GrexAi.apk",
+      "name": "GrexAi-v2.4.2.apk",
+      "url": "https://github.com/developer-mahabbat/rikkahub/actions/runs/29975753247/artifacts/8551399889",
       "size": "75MB"
     }
   ]
