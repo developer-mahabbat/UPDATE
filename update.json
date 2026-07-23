@@ -2,7 +2,7 @@
   "version": "2.5.0",
   "publishedAt": "2026-07-22T00:00:00Z",
   "changelog": "What's new:\\n- Bug fixes\\n- Performance improvements",
-  "force": true,
+  "force": false,
   "downloads": [
     {
       "name": "GrexAi-v2.5.0.apk",
