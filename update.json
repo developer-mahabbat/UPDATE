@@ -1,13 +1,23 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "publishedAt": "2026-07-23T00:00:00Z",
-  "changelog": "What's new:\n- 32-bit device support\n- Direct APK download\n- Performance improvements",
+  "changelog": "What's new:\n- Auto-retry on network errors (background + stall detection)\n- 32-bit device support (armeabi-v7a)\n- 3 APK variants per build (32bit/64bit/universal)\n- Direct APK download from GitHub Releases\n- Consistent signing key (no more install conflicts)",
   "force": false,
   "downloads": [
     {
-      "name": "GrexAi-v2.4.3.apk",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.3/GrexAi.apk",
-      "size": "75MB"
+      "name": "GrexAi-32bit.apk (low-end devices)",
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-32bit.apk",
+      "size": "65MB"
+    },
+    {
+      "name": "GrexAi-64bit.apk (modern devices)",
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-64bit.apk",
+      "size": "68MB"
+    },
+    {
+      "name": "GrexAi-universal.apk (all devices)",
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-universal.apk",
+      "size": "80MB"
     }
   ]
 }
