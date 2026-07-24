@@ -1,23 +1,23 @@
 {
   "version": "2.4.5",
-  "publishedAt": "2026-07-23T00:00:00Z",
-  "changelog": "What's new:\n- Auto-retry on network errors (background + stall detection)\n- 32-bit device support (armeabi-v7a)\n- 3 APK variants per build (32bit/64bit/universal)\n- Direct APK download from GitHub Releases\n- Consistent signing key (no more install conflicts)",
+  "publishedAt": "2026-07-24T00:00:00Z",
+  "changelog": "What's new in v2.4.5:\n- AI tools now work WITHOUT Rootfs (create files/folders directly)\n- Create directory & delete entry tools (auto-approved)\n- Download individual files or folders as ZIP\n- DuckDuckGo search with up to 20 results\n- Fixed crash on minimize/slow network\n- Default \"Grex-Spce\" workspace for all chats\n- Fixed 32-bit crash (armeabi-v7a)",
   "force": false,
   "downloads": [
     {
       "name": "GrexAi-32bit.apk (low-end devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-32bit.apk",
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.5/GrexAi-32bit.apk",
       "size": "65MB"
     },
     {
       "name": "GrexAi-64bit.apk (modern devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-64bit.apk",
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.5/GrexAi-64bit.apk",
       "size": "68MB"
     },
     {
       "name": "GrexAi-universal.apk (all devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.4/GrexAi-universal.apk",
-      "size": "80MB"
+      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.5/GrexAi-universal.apk",
+      "size": "85MB"
     }
   ]
 }
