@@ -1,22 +1,22 @@
 {
   "version": "2.4.7",
   "publishedAt": "2026-07-24T00:00:00Z",
-  "changelog": "What's new in v2.4.7:\n- Workspace shows \"Active\" even without Rootfs (no more \"Disabled\" label)\n- Update card now shows error messages when check fails\n- Consistent APK signing key (no more installation conflicts)\n- Auto-select \"Grex-Spce\" workspace for all assistants on first launch\n- file read/write/create/delete/search all work without Rootfs\n- \"hii\" text duplication issue fixed (keyboard/ASR input handling improved)",
+  "changelog": "What's new in v2.4.7:\n- Workspace shows \"Active\" even without Rootfs\n- Update card shows error messages\n- Consistent APK signing (no install conflicts)\n- Auto-select Grex-Spce workspace\n- Long-press multi-select + ZIP export\n- All file tools work without Rootfs",
   "force": false,
   "downloads": [
     {
       "name": "GrexAi-32bit.apk (low-end devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.7/GrexAi-32bit.apk",
+      "url": "https://github.com/developer-mahabbat/GrexAi/releases/download/v2.4.7/GrexAi-32bit.apk",
       "size": "65MB"
     },
     {
       "name": "GrexAi-64bit.apk (modern devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.7/GrexAi-64bit.apk",
+      "url": "https://github.com/developer-mahabbat/GrexAi/releases/download/v2.4.7/GrexAi-64bit.apk",
       "size": "68MB"
     },
     {
       "name": "GrexAi-universal.apk (all devices)",
-      "url": "https://github.com/developer-mahabbat/rikkahub/releases/download/v2.4.7/GrexAi-universal.apk",
+      "url": "https://github.com/developer-mahabbat/GrexAi/releases/download/v2.4.7/GrexAi-universal.apk",
       "size": "85MB"
     }
   ]
